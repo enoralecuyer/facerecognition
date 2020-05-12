@@ -1,6 +1,6 @@
 # Face Recognition
 
-Face Recognition App.
+Upload a photo, click on Detect and see the face being detected. Built with the [Clarifai Face Recognition API](https://www.clarifai.com/custom-face-recognition).
 
 ## Screenshot
 
