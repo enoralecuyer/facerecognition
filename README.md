@@ -4,8 +4,7 @@ Face Recognition App.
 
 ## Screenshot
 
-![Screenshot of the Face Recognition App](https://drive.google.com/file/d/13R-YzZNbPSiDoigdIFRMyaPlgHaGOumC)
-
+![face recognition app](https://github.com/enoralecuyer/facerecognition/blob/public/facerecognition.png?raw=true)
 ## Built With
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
