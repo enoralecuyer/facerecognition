@@ -4,7 +4,7 @@ Face Recognition App.
 
 ## Screenshot
 
-![Screenshot of the Face Recognition App](https://drive.google.com/open?id=13R-YzZNbPSiDoigdIFRMyaPlgHaGOumC)
+![Screenshot of the Face Recognition App](https://drive.google.com/file/d/13R-YzZNbPSiDoigdIFRMyaPlgHaGOumC)
 
 ## Built With
 
