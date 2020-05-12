@@ -4,7 +4,8 @@ Face Recognition App.
 
 ## Screenshot
 
-![face recognition app](https://github.com/enoralecuyer/facerecognition/blob/public/facerecognition.png?raw=true)
+![face recognition app](https://github.com/enoralecuyer/facerecognition/blob/master/public/facerecognition.png?raw=true)
+
 ## Built With
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -12,10 +13,8 @@ Face Recognition App.
 * [Tachyons](https://tachyons.io/)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [React](https://github.com/facebook/create-react-app)
+* [Clarifai Face Recognition API](https://www.clarifai.com/custom-face-recognition)
 
-## Deploy Status Badge
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/64083dee-05d0-4978-9877-eeac022b071b/deploy-status)](https://app.netlify.com/sites/face-recognition-web/deploys)
 ## Author
 
 Enora Lecuyer
