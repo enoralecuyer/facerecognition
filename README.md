@@ -2,9 +2,9 @@
 
 Face Recognition App.
 
-## View Demo
+## Screenshot
 
-[Face Recognition](https://face-recognition-web.netlify.app/)
+![Screenshot of the Face Recognition App](https://drive.google.com/open?id=13R-YzZNbPSiDoigdIFRMyaPlgHaGOumC)
 
 ## Built With
 
