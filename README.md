@@ -2,6 +2,10 @@
 
 Upload a photo, click on Detect and see the face being detected. Built with the [Clarifai Face Recognition API](https://www.clarifai.com/custom-face-recognition).
 
+## View Demo
+
+[Face Recognition App](https://face-recognition-web.netlify.app/)
+
 ## Screenshot
 
 ![face recognition app](https://github.com/enoralecuyer/facerecognition/blob/master/public/facerecognition.png?raw=true)
