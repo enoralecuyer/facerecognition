@@ -55,7 +55,6 @@ label:after {
   height: 20px;
   background: #fff;
   border-radius: 90px;
-  -webkit-transition: 0.3s;
   transition: 0.3s;
 }
 
@@ -65,7 +64,6 @@ input:checked + label {
 
 input:checked + label:after {
   left: calc(100% - 5px);
-  -webkit-transform: translateX(-100%);
   transform: translateX(-100%);
 }
 
@@ -77,9 +75,6 @@ html.transition,
 html.transition *,
 html.transition *:before,
 html.transition *:after {
-  -webkit-transition: all 750ms !important;
   transition: all 750ms !important;
-  -webkit-transition-delay: 0 !important;
   transition-delay: 0 !important;
 }
-/*# sourceMappingURL=index.css.map */
