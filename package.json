@@ -9,11 +9,8 @@
     "axios": "^0.21.1",
     "clarifai": "^2.9.1",
     "elliptic": "^6.5.4",
-<<<<<<< HEAD
     "immer": "^8.0.1",
     "is-svg": "^4.2.2",
-=======
->>>>>>> 7ae596ae76167d010f3a3d68870f4b7ac9a7f956
     "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
